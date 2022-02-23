@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty and benefit of frequent Communion, in a sermon preached at St. Peter's Church in Lincoln, upon Passion Sunday, 1688 by Walter Leightonhouse ; published at the request of many that heard it preached.</title>
+            <author>Leightonhouse, Walter, 1656-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47647</idno>
+            <idno type="STC">Wing L1032</idno>
+            <idno type="STC">ESTC R15852</idno>
+            <idno type="EEBO-CITATION">11849658</idno>
+            <idno type="OCLC">ocm 11849658</idno>
+            <idno type="VID">49907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 500:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty and benefit of frequent Communion, in a sermon preached at St. Peter's Church in Lincoln, upon Passion Sunday, 1688 by Walter Leightonhouse ; published at the request of many that heard it preached.</title>
+                  <author>Leightonhouse, Walter, 1656-1701.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XXII, 19 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49907:1" rendition="simple:additions"/>
+            <p>THE DUTY and BENEFIT OF <hi>Frequent Communion,</hi> IN A SERMON Preached at St. <hi>Peter</hi>'s Church in <hi>Lincoln,</hi> upon Paſſion <hi>Sunday,</hi> 1688.</p>
+            <p>By WALTER LEIGHTONHOUSE, A. M. Chaplain to the Right Honourable the Earl of <hi>Huntingdon;</hi> late Fellow of <hi>Lincoln Colledge</hi> in <hi>Oxon.</hi> and now Rector of <hi>Waſhingburgh</hi> nigh <hi>Lincoln.</hi>
+            </p>
+            <p>Publiſhed at the Requeſt of many that heard it Preached.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <bibl>Baſil. Epiſt. 289. ad Caeſariam Patriciam.</bibl>
+            </q>
+            <q>Quotidiè Euchariſtiae Communionem percipere nec laudo, nec reprehendo; omnibus ta<g ref="char:EOLhyphen"/>men Dominicis diebus, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adeo &amp; hortor. <bibl>
+                  <hi>Aug. in lib. de Eccleſ. Dogm.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crook</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar,</hi> nigh <hi>Devereux</hi> Court. 1689.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:49907:2"/>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <p>
+               <hi>Concio cui titulus</hi> (The Duty and Benefit of Frequent Communion.)</p>
+            <closer>
+               <signed>GUIL. NEEDHAM.</signed>
+               <date>
+                  <hi>Octob. 26. 1688.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49907:2"/>
+            <head>To the Right Honourable THEOPHILUS Earl of HUNTINGDON, One of His Majeſties Moſt Honourable Privy Council, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>ALthough the following Diſcourſe be, for the moſt part, built upon that Authority that needs no Patronage to defend it; yet I no ſooner agreed to the making of it Publick, but I ſaw a neceſſity of affixing your Lordſhip's great Name before it: Not to remind you, My Lord, of your Duty, of which you need no Monitor, but your own Active Piety; but to let the World know, That whatever of Worth it carries in it, has had its Origen from your Lordſhip's Encouragement and Support, and there<g ref="char:EOLhyphen"/>fore muſt juſtly become your Votary. I
+<pb facs="tcp:49907:3"/>confeſs, My Lord, 'tis too ſlender a ſig<g ref="char:EOLhyphen"/>nification of that unfeign'd and undelible Gratitude I owe to you; but if your Honour pleaſe to make an Addition to your former Favours by the acceptance of this firſt Teſtimony of my Regards, I hope, My Lord, if Succeſs crown my under<g ref="char:EOLhyphen"/>takings, to acknowledge them very ſhort<g ref="char:EOLhyphen"/>ly in ſome greater Inſtance. In the interim, the great Importance of your Publick Charge making me ſenſible that your mi<g ref="char:EOLhyphen"/>nutes are ſacred, and that therefore 'twould be a Piacle to invade them with a tedious Addreſs, I ſhall only add, That the height of the Honour I moſt paſſionately aſpire to, is, that my deſerts may give me the Title of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Honour's moſt affectionately devoted, and moſt humble Servant, WALTER LEIGHTONHOUSE.</signed>
+               <date>Octob. 30. 1688.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49907:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>LUKE XXII.</hi> ver. <hi>19.</hi>
+               </bibl>
+               <q>—This is my Body which is given for you: do this in remembrance of me.</q>
+            </epigraph>
+            <p>AMongſt all thoſe Bleſſings in which Mankind ſeems to take ſatisfa<g ref="char:EOLhyphen"/>ction, there is none with which we are more deeply affected, than Deli<g ref="char:EOLhyphen"/>verance from Calamities: For as the Paſſions of <hi>Fear</hi> and <hi>Grief</hi> are (according to<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Alcin. de Doctr. Plat. p. 72.</note> Phi<g ref="char:EOLhyphen"/>loſophers) more impreſſive upon our Senſes than thoſe of <hi>Hope</hi> and <hi>Love;</hi> ſo it muſt needs fall out, that the releaſe from the former will be more ſatisfacto<g ref="char:EOLhyphen"/>ry than the completion of the latter.</p>
+            <p>For let our <hi>Hopes</hi> be buoyed up with the rapid Torrent of an expected Felicity, and let our <hi>Love</hi> ſwim in the full Stream of our De<g ref="char:EOLhyphen"/>ſires effected, the firſt is but the glimmering of Satisfaction, and the latter quickly dies or grows languid by fruition. But on the other hand, let our Thoughts be benighted with the ſad Apprehenſions but of an imminent <hi>Danger,</hi> with
+<pb n="2" facs="tcp:49907:4"/>what a buſie activeneſs do we beſtir our ſelves <hi>to the evading of it?</hi> And if by chance we lie un<g ref="char:EOLhyphen"/>der the heavy Preſſures of a preſent Grievance, with what regret do we ſhrink under our Bur<g ref="char:EOLhyphen"/>then, <hi>Curſe</hi> our ill <hi>Faté,</hi> and repine and murmur at the Author and Inſtruments of it?</p>
+            <p>All which being ſo, What<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phot. Epiſt. 46.</note> 
+               <hi>Tranſports</hi> of <hi>Paſ<g ref="char:EOLhyphen"/>ſion</hi> muſt we needs be in, when we compare our paſt with our preſent ſtate? Impendent Dan<g ref="char:EOLhyphen"/>ger on one hand, exquiſite without a parallel, inexpreſſible Deliverance on the other, effected without our aſſiſtance: Faln Man grovelling in Sin, and haſtning to eternal Ruine; a gracious God <hi>ſpeeding</hi> our Reſcue by his own Miſery. Here's in one Scale <hi>Mankind</hi> diſtracted through Fears, and rack'd with the ſad Thoughts of a future ſtate: Here's in the other, an innocent <hi>Redeemer,</hi> no leſs ſo through the ſenſe of our Sins and Tranſgreſſions: Here's the Raptures of <hi>Joy</hi> ſucceeding the Pangs of <hi>Deſpair,</hi> and Mercy ſeated where Judgment ought to have taken place. Here's Sin in one expiated by the innocent Death of another; and here's a kindneſs freely diſpens'd, which Men and Angels could not otherwiſe have purchas'd: Here's our <hi>Holy Jeſus</hi> giving <hi>his Body</hi> for the Redemption of our Souls,
+<pb n="3" facs="tcp:49907:4"/>and requires nothing for the kindneſs, but that we will not forget it. <hi>This is my Body which is given for you; This do</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for my Commemora<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>in remembrance of me.</hi>
+            </p>
+            <p>Which words import as much as though our Saviour had ſaid thus:</p>
+            <p>My beloved Friends and Followers, that you were brought into a low miſerable Condition by the Sin of your firſt Parents, you cannot but be ſenſible; and that you were out of a capa<g ref="char:EOLhyphen"/>city of freeing your ſelves from thoſe Chains of Darkneſs, your are no leſs ſenſible; which dread<g ref="char:EOLhyphen"/>ful Condition of yours, I your Saviour being touch'd withal, was highly concern'd which way to <hi>ſnatch</hi> you out of this <hi>Fire of Affliction;</hi> and ſeeing that nothing leſs than mine own Blood could effect it, and that too by being ſhed up<g ref="char:EOLhyphen"/>on an accurſed and diſgraceful Tree, I reſolv'd to go through that direful Scene, and to offer up my Body as a Sacrifice for you, of which this Bread which I now break, is a Sign or Emblem. Now I ſee you pretend (as indeed you ought) to have a great Value and Eſteem for me your dying Saviour, you ſeem very ſonſible of my being cloath'd with Miſery, <hi>and wrinkled with ſable Cares</hi> for your ſakes: And withal, you ſeem to be deſirous of ſome opportunity where<g ref="char:EOLhyphen"/>by
+<pb n="4" facs="tcp:49907:5"/>by you may atteſt your Gratitude and thank<g ref="char:EOLhyphen"/>ſulneſs to me for thoſe galling Calamities which I have ſuffered for your <hi>Redemption:</hi> This you ſeem mighty zealous in, and very deſirous of: for my part, it is not any pleaſure to me, nor is it my deſire to lay any ſevere<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. Dialog. de reb. divin. p. 255.</note> Task, or heavy Impoſitions upon you; but yet I am now about to leave the World, and to die a bitter, an accurſed, and ſhameful Death for the compleating your Salvation, and I am unwilling, I muſt confeſs, that you ſhould <hi>lock</hi> ſuch ſignal Favours as theſe out of your remembrance, and therefore I reſolve to try whether theſe your great Pretences have any thing in them beſides <hi>Ceremony</hi> and <hi>Complement.</hi>
+            </p>
+            <p>I will lay one eaſie Injunction upon you, which is <hi>this:</hi> You ſee that I am now quitting this earthly Station, and aſcending to <hi>Heaven from whence I came,</hi> ſo that I cannot afford you my bodily preſence any longer; however, when I have left this World, all ye that have any hearty reſpect for me, be ſo kind as to meet lovingly together at my Houſe, and eat and drink this repreſentative of my Body and Blood
+<pb n="5" facs="tcp:49907:5"/>in my Name at my Table,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Conſt. Clem. l. 8. c. 12.</note> ſtill remembring, diſcourſing of, and laying before you the Ago<g ref="char:EOLhyphen"/>ny and bloody Sweat, the bitter death, Croſs, and Paſſion, and all the meritorious Sufferings of me your Maſter and Redeemer. And now certainly you muſt needs acknowledge that this is no very ſevere Penance which I enjoyn you; and therefore if (after all your ſpecious Pretences) any of you ſhould either wilfully or careleſsly neglect this ſmall piece of Service, which I ſo earneſtly enjoyn you, I ſhall then really believe that all your Proteſtations are no<g ref="char:EOLhyphen"/>thing but Noiſe and Shuffling. If you have any Value therefore for this <hi>Body of mine, which is given for you, This do in remembrance of me.</hi>
+            </p>
+            <p>This is the ſubſtance of our Saviour's words in my Text, from which (thus briefly explain'd) I ſhall endeavour to ſhew you the great rea<g ref="char:EOLhyphen"/>ſonableneſs of a <hi>frequent Communion,</hi> and the mon<g ref="char:EOLhyphen"/>ſtrous Indiſcretion, as well as Diſobedience, if we refuſe to perform this Injunction of our <hi>Holy Jeſus,</hi> denying or neglecting to <hi>do this in remembrance of him.</hi> And this I ſhall do, firſt, from the eaſineſs of the Service, and the ſlender returns which Chriſt requires of us for thoſe great Favours he has conferr'd upon us.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:49907:6"/>
+               <hi>2ly.</hi> From the vaſt Advantages which will accrew from a frequent reception, in order to the encreaſing thoſe Graces which are abſolutely neceſſary to Salvation.</p>
+            <p>The firſt ſhews us our <hi>Duty,</hi> the ſecond, the <hi>great Benefit</hi> of receiving the <hi>Holy Sacrament.</hi> The latter of which being a Topick not fre<g ref="char:EOLhyphen"/>quently inculcated, may perhaps be the more grateful to you for its Novelty.</p>
+            <p>I begin with the firſt, <hi>viz.</hi> to endeavour to ſhew you the great reaſonableneſs of a <hi>frequent Communion</hi> from the eaſineſs of the Service, and the ſlender returns which Chriſt requires of us for ſo great Favours beſtowed upon us.</p>
+            <p>Had our God, like thoſe of the Hea<g ref="char:EOLhyphen"/>thens, requir'd us to<note n="*" place="margin">Porphyr. de abſti<g ref="char:EOLhyphen"/>nentia ab eſu animal. Plutarch. Pauſanius.</note> eat our own Chil<g ref="char:EOLhyphen"/>dren in Sacrifice, or by way of Atonement to<note n="†" place="margin">Clem. Protrepti. Dionyſius Halicarn. lib. 1.</note> offer up our deareſt Friends, or the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juſtin. Mart. Apol. 1.</note> nobleſt of our Relations; had he bid us cut and ſlaſh our beloved Fleſh, and bathe our ſelves in our own Blood; had he bid us lay down our life for him, and com<g ref="char:EOLhyphen"/>memorate his Death by ruſhing <hi>our ſelves into our own:</hi> Nay, had he requir'd but the firſt Fruit of our Flocks, and of our Herds, of our Oil, and of our Meal; theſe
+<pb n="7" facs="tcp:49907:6"/>perhaps to ſome would have ſeem'd <hi>hard Sayings, and grievous Commandments;</hi> and the kindneſs of our Redeemer, tho' inexpreſſibly great, would have ſeem'd to have been purchas'd by us at too dear a rate.</p>
+            <p>Nay, if we reflect upon the ſtate of our Forefathers, and therein view thoſe almoſt<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Vid. Juſtin. Mart. in Apol. 2. Euſeb. Dem. Evang. l. 1. c. 10. &amp; lib. 5. c. 23. &amp; vid. Weems Ex<g ref="char:EOLhyphen"/>ercitat. vol. 2. p. 55.</note> 
+               <hi>in<g ref="char:EOLhyphen"/>numerable Sacrifices</hi> and Offerings which were en<g ref="char:EOLhyphen"/>joyn'd them under the Oeconomy of the Law, the lazy humor of our days would repute that too ſevere a Task for us now, altho' our Re<g ref="char:EOLhyphen"/>ward do vaſtly tranſcend theirs.</p>
+            <p>But that the Mercy of God may ſurmount not only our <hi>Merits,</hi> but our <hi>Expectation</hi> too, we have a Saviour who hath delivered us not only from the <hi>Curſe,</hi> but from the <hi>Burthen</hi> of the <hi>Law</hi> likewiſe. He hath fully abſov'd us from one, and hath laid no Injunction upon us in the room of the other. He only tells us, that he thinks that we have ſome reaſon to <hi>remember</hi> this kindneſs, and not to bury his Favours in obli<g ref="char:EOLhyphen"/>vion; and therefore in order thereunto, he in<g ref="char:EOLhyphen"/>vites us to come now and then to take a ſmall Repaſt with him, as a <hi>Memorandum</hi> that he has been our Friend and Benefactor.</p>
+            <pb n="8" facs="tcp:49907:7"/>
+            <p>He requires nothing of us, but that we will let him have our Company at Supper, there to think, to meditate and diſcourſe of thoſe ob<g ref="char:EOLhyphen"/>liging Favours which he hath long ſince done for us; the effects of which do yet, and will for ever continue with us. And now is this ſuch an hard piece of Service? Has not our Bleſ<g ref="char:EOLhyphen"/>ſed Redeemer merited as much at our hands as this comes to? Doth he not however deſerve <hi>ſomething</hi> as an acknowledgment? And if he do, what leſs can we do for him? Should he have left it to our ſelves to have made choice of ſome Method whereby to atteſt our acceptance, what eaſier, what cheaper way could we have invented? 'Tis but what we do every day at home; <hi>Eating</hi> and <hi>Drinking,</hi> and at a cheaper rate too, it coſts us nothing; and therefore if we refuſe <hi>doing this</hi> which is ſo mighty facil, it appears we will do nothing for him.</p>
+            <p>For indeed (as<note n="*" place="margin">Author of the whole Du<g ref="char:EOLhyphen"/>ty of Man: <hi>Laàies Calling,</hi> p. 134.</note> one very well obſerves) <q>this is not only a Diſobedience, but an Unkind<g ref="char:EOLhyphen"/>neſs which ſtrikes not only at the Authority, but at the Love of our Lord, when he ſo affects an Union with us, that he creates Myſteries only to effect it; when he deſcends even to our Senſuality, and becauſe we want ſpiritual
+<pb n="9" facs="tcp:49907:7"/>Appetites, puts himſelf within reach of our natural; and as he once veil'd his Divinity in Fleſh, ſo now he <hi>Sacramentally</hi> veils even that Fleſh under the form of our corporal nouriſh<g ref="char:EOLhyphen"/>ment, only that he may the more indiſſolvably unite, yea, incorporate himſelf with us. When I ſay he does all this, we are not only impi<g ref="char:EOLhyphen"/>ous, but inhumane if it will not attract us. Nay farther, when he does all this upon the moſt endearing Memory of what he has before done for us, when he preſents himſelf to our Embraces in the ſame form wherein he preſent<g ref="char:EOLhyphen"/>ed himſelf to God for our Expiation, when he ſhews us thoſe Wounds which our Iniquities made, thoſe Stripes by which we were healed, and that Death by which we are reviv'd;</q> we ſhall be ſtrangely rude and impious if we turn our Backs, and refuſe to <hi>commemorate</hi> ſo great a Bleſſing. But,</p>
+            <p n="2">
+               <hi>2ly.</hi> If we be not ſo ingenuous as to be mov'd by Gratitude and Obedience, let us be ſo wiſe as to do it for Intereſt, for advantage; and therein let us conſider, that,</p>
+            <list>
+               <item>
+                  <hi>1ſt.</hi> Our Faith is hereby confirm'd.</item>
+               <item>
+                  <hi>2ly.</hi> Our Hope is by this ſtrengthned.</item>
+               <item>
+                  <hi>3ly.</hi> Our Charity is thereby inlarg'd.</item>
+               <pb n="10" facs="tcp:49907:8"/>
+               <item>
+                  <hi>4ly.</hi> Our Thankfulneſs to God is by this en<g ref="char:EOLhyphen"/>flam'd: And,</item>
+               <item>
+                  <hi>5ly.</hi> Our Repentance is hereby promoted.</item>
+            </list>
+            <p>Which five Topicks, if I can make out, may, methinks, be ſufficient to evince the reaſonable<g ref="char:EOLhyphen"/>neſs of this our Bleſſed Saviour's Inſtitution, and be Engagement enough to incite us to <hi>do this in remembrance of him.</hi>
+            </p>
+            <p>Of theſe therefore in Order, and,</p>
+            <p>Firſt, By a Participation of the bleſſed Sacra<g ref="char:EOLhyphen"/>ment our Faith is confirm'd. 'Tis, I confeſs, the Accuſation that a<note n="*" place="margin">Mr. <hi>Hales</hi> of <hi>Eaton</hi>'s Tracts. p. 57.</note> Great Man of our own lays upon our Church, that through a too unrea<g ref="char:EOLhyphen"/>ſonable fondneſs of this great <hi>Myſtery</hi> we <hi>abuſe it to many ends,</hi> amongſt which he reckons this, That <hi>we teach, That it confirms our Faith in Chriſt; whereas indeed,</hi> ſaies he, <hi>the receiving of it is a ſign of Faith confirmed; and men come to it, to teſtifie that they do believe, not to procure that they may be<g ref="char:EOLhyphen"/>lieve.</hi> But by the favour of that <hi>Learned Perſon,</hi> we acknowledge with him, that it is a ſign of Belief, and that no man ought to approach that <hi>Sacred Ordinance</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Li<g ref="char:EOLhyphen"/>turg. S. Chryſ. &amp; S. Jacob. &amp; vid. Chryſ. Homil. 24. in 1. ad Cor.</note> without Faith in Chriſt's Me<g ref="char:EOLhyphen"/>rits: But yet we <hi>inſiſt</hi> likewiſe, that there are <hi>degrees</hi> of that <hi>Faith.</hi> For that all habits are en<g ref="char:EOLhyphen"/>creas'd by being <hi>exerciſed,</hi> a ſlender Philoſopher
+<pb n="11" facs="tcp:49907:8"/>will inform you; and that this Ordinance re<g ref="char:EOLhyphen"/>quires <hi>great Exerciſes</hi> of the Grace of Faith, a Novice in Divinity will inform you likewiſe. For we have in this action the moſt lively Emblem and Repreſentation of God's love to Mankind; we ſee God in the moſt ſevere inſtance of Tryal (even that of ſacrificing his own Son) faithfully accom<g ref="char:EOLhyphen"/>pliſhing his Word; and therefore what ground of diſtruſt can we have, that he will not in con<g ref="char:EOLhyphen"/>cerns of an inferiour nature, approve himſelf to be <hi>a God that cannot lye, nor deny himſelf?</hi> How can we in any caſe diſtruſt his Mercy, or ſu<g ref="char:EOLhyphen"/>ſpect his Bounty, when in the higheſt inſtance we have experienced his Fidelity? If therefore our dependance on the Almighty Goodneſs be<g ref="char:EOLhyphen"/>gin to faint, or our Faith begin to ſtagger; if the greatneſs of our Sins deter us from the hopes of his Mercy, let us in the <hi>Bleſſed Sacrament view</hi> him <hi>ſhedding the Blood</hi> of his own <hi>Son</hi> to ad<g ref="char:EOLhyphen"/>vance our Intereſt, and to <hi>redeem us from the Curſe,</hi> Gal. 3.13. and then certainly we cannot chuſe but argue thus with the<note n="*" place="margin">Rom. 8. v. 32.</note> Apoſtle, <hi>If God ſpared not his own Son, but delivered him up for us, how ſhall be not alſo with him freely give us all things?</hi>
+            </p>
+            <p n="2">
+               <hi>2ly.</hi> Our Hope is by this ſtrengthned.</p>
+            <p>There is nothing which doth more deject a
+<pb n="12" facs="tcp:49907:9"/>conſidering man, than the Thoughts of his faln Condition: For what can ſuch Meditations ſuggeſt leſs unto him, than the frowns of an angry God, together with the fatal loſs of hap<g ref="char:EOLhyphen"/>pineſs in this World, and eternal Felicity in the next. And ſuch dreadful Apprehenſions as theſe muſt needs <hi>ruffle and diſcompoſe our Spirits,</hi> and cauſe a <hi>Regret</hi> and <hi>Diſpondency</hi> through the whole man. Now when our Souls are put upon the rack by ſuch tormenting Fears: when the hei<g ref="char:EOLhyphen"/>nouſneſs of our Sins reminds us of the ſadneſs of our Condition: When our <hi>Hope</hi> is well nigh loſt, and Deſperation hath almoſt ſwal<g ref="char:EOLhyphen"/>lowed us up, will not the ſight of Chriſt cru<g ref="char:EOLhyphen"/>cified recruit our dying <hi>Hopes,</hi> and ſummon together our ſcatter'd Spirits? May we not en<g ref="char:EOLhyphen"/>tertain comfortable hopes of Mercy, when even <hi>before our Eyes</hi> we ſee the <hi>Lamb of God</hi> groan<g ref="char:EOLhyphen"/>ing, bleeding, dying for our Sins? Will it not highly encourage us to conſider, that thoſe A<g ref="char:EOLhyphen"/>gonies by which our Sins were expiated, were ſufficient to content the moſt rigorous Severity? Muſt it not needs abate the Wounds of our Conſcience, and diminiſh out Fears whilſt we are <hi>Eye-witneſſes</hi> of his <hi>Crucifixion,</hi> and do in the bleſſed Sacrament even <hi>Behold the Lamb of God
+<pb n="13" facs="tcp:49907:9"/>that took away the Sins of the World?</hi> John 1.19.</p>
+            <p>'Twould certainly be a diſparagement to the Efficacy of our <hi>Lord's Paſſion,</hi> ſhould we after all this<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex. Strom. 5.</note> 
+               <hi>deſpair</hi> of <hi>Mercy,</hi> be utterly diſconſolate, and thereby <hi>be mov'd away from the hope of the Go<g ref="char:EOLhyphen"/>ſpel,</hi> Col. 1.23. But,</p>
+            <p n="3">
+               <hi>3ly.</hi> Our Charity is by this enlarg'd, and that,</p>
+            <list>
+               <item>
+                  <hi>1ſt.</hi> To the whole Church.</item>
+               <item>
+                  <hi>2ly.</hi> To each particular Member.</item>
+            </list>
+            <p>Firſt, Our Love and Charity is by this enlarg'd to the whole Church. 'Tis obſerv'd by<note n="*" place="margin">
+                  <hi>Glanvil</hi> on the Sacra<g ref="char:EOLhyphen"/>ment, p. 2.</note> one, That the neglect of the Sacrament hath occa<g ref="char:EOLhyphen"/>ſioned <hi>not only the Debauchery, but the Diviſion of the times; and that the frequent obſervance of it, would reduce us not only to Sobriety, but to Union likewiſe.</hi> And in the<note n="*" place="margin">Concil. Apoſtol. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Can. Apoſt. 9.</note> Infancy of Chriſtianity well as<note n="†" place="margin">Concil. Antioch. Concil. Agath. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Syn. Antioch. Can. 2.</note> ſome Ages ſince thoſe Per<g ref="char:EOLhyphen"/>ſons were look'd upon as Diſturbers of the Peace and Tranquility of the Church, who refus'd theſe ſacred Myſteries. And the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the <hi>Greek</hi> Fathers do ſo frequently uſe for the Bleſſed Sa<g ref="char:EOLhyphen"/>crament, ſeems to intimate no leſs than
+<pb n="14" facs="tcp:49907:10"/>a gathering together of Chriſtians in Love and Amity, to return thanks for a common Benefit. And that this Interpretation is genuine, we may reaſonably gueſs from that Practice of the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians of ſending ſome part of the Analects or Remains to abſent Friends, tho' of other <hi>Pariſhes,</hi> as Pledges and Tokens of Love and Agreement in the Unity of the ſame Faith, as<note n="*" place="margin">Hiſt. Eccl. lib. 5 c. 26.</note> 
+               <hi>Euſebius</hi> tells us in <hi>Irenaeus</hi> his Epiſtle to Pope <hi>Victor;</hi> which Conſtitution continued in force till it was interdicted by the<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Can. 14.</note> Council of <hi>Laodicea,</hi> which was after the middle of the fourth Cen<g ref="char:EOLhyphen"/>tury. And altho' that Canon was for ſome rea<g ref="char:EOLhyphen"/>ſons abrogated, yet all along thoſe who refus'd to join in ſuch ſacred Aſſemblies, did (in the opinion of all good men) tacitly accuſe them<g ref="char:EOLhyphen"/>ſelves to be Enemies to the Church, and<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Ig<g ref="char:EOLhyphen"/>nat. in Epiſt. ad Epheſ.</note> Renegado's to Chriſtianity. And this was the very reaſon why, (as<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Apol. 2. p. 97.</note> 
+               <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyr</hi> tells us) <hi>the abſent in his time communi<g ref="char:EOLhyphen"/>cated as well as the preſent;</hi> each abſent Pariſhioner having the conſecrated Ele<g ref="char:EOLhyphen"/>ments carried home to him, to teſtifie, that altho ſome important Affairs, or bodily Indiſ<g ref="char:EOLhyphen"/>poſition intervened, yet they were <hi>of the ſame Mind, and of the ſame Heart,</hi> Acts 4.32. Nay,
+<pb n="15" facs="tcp:49907:10"/>ſo abſolute a neceſſity they thought there was for the reception of <hi>the Holy Sacrament,</hi> that in one of the Canons of <hi>Timotheus</hi> ſometimes Pa<g ref="char:EOLhyphen"/>triarch of <hi>Alexandria,</hi> you may ſee theſe words,<note n="*" place="margin">Vid. <hi>Mede</hi>'s Works, p. 30.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. If any of the faithful be a Demoniack, <hi>i.e.</hi> a Lunatick or Madman, he ought (in his <hi>lucida intervalla</hi>) to partake of the holy Myſteries. For this is the great<note n="*" place="margin">Qui in na<g ref="char:EOLhyphen"/>tali Domini, Paſchate &amp; Pentecoſte non commu<g ref="char:EOLhyphen"/>nicant Catho<g ref="char:EOLhyphen"/>lici non cre<g ref="char:EOLhyphen"/>dantur, nec inter Catholicos habeantur. Concil. Agathen. Can. 18.</note> Teſt of our Religion, and the only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that can give any Evidence that we are none of <hi>thoſe that cauſe Diviſions</hi> amongſt us, <hi>Rom.</hi> 16.17.</p>
+            <p>But, beſides all this, methinks when we ſee the Spouſe of the Church ſacrificing himſelf for the Peace and Unity of it; when we ſee himſelf bequeath this as a Legacy with his dying breath,<note n="*" place="margin">John. 14.27.</note> 
+               <hi>My Peace I leave with you, my Peace I give unto you.</hi> When we hear him enjoining it to his,<note n="†" place="margin">Mar. 9.50. Rom. 12.18. Heb. 12 14.</note> Church, and ſee him bleeding to accompliſh it, we can<g ref="char:EOLhyphen"/>not for ſhame make thoſe Wounds wider by our Diviſions, and only for an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſomething per<g ref="char:EOLhyphen"/>haps in it ſelf indifferent, rent the ſeamleſs Coat of Chriſt. No, we are Diſſenters from the<note n="*" place="margin">Harum &amp; a<g ref="char:EOLhyphen"/>liarum ejuſ<g ref="char:EOLhyphen"/>modi diſciplinarum, ſi legem expoſtules Scripturarum, nullam invedies, ſed Traditio praeten<g ref="char:EOLhyphen"/>ditur auctrix, conſuetudo conſervatrix, &amp; fides obſervatrix. Tertul. in lib. de Coron. Militis.</note> excellent
+<pb n="16" facs="tcp:49907:11"/>Rules of Primitive Chriſtianity, if for ſuch ni<g ref="char:EOLhyphen"/>ceties as theſe, we play away the Peace of the Church; and 'tis a great ſign that our Wounds are very putrid, if the Blood of Chriſt himſelf will not cement them.</p>
+            <p n="2">
+               <hi>2ly.</hi> The receiving of the Sacrament is a ſtrong Engagement to the Practice of Charity towards every particular Perſon.</p>
+            <p>And this Charity I ſhall branch out into
+<list>
+                  <item>
+                     <hi>1ſt.</hi> Love.</item>
+                  <item>
+                     <hi>2ly.</hi> Beneficence.</item>
+               </list>
+            </p>
+            <p>And firſt, That the receiving of the Sacrament muſt needs enhance our <hi>Love</hi> one to another, and unite us with the <hi>Bond</hi> of <hi>Peace</hi> and <hi>Chari<g ref="char:EOLhyphen"/>ty,</hi> cannot be doubted by any who will but give himſelf time to conſider, that in Holy Writ it is intitled a<note n="*" place="margin">Jude 12.</note> 
+               <hi>Love-feaſt,</hi> and a<note n="†" place="margin">1 Cor. 11.</note> 
+               <hi>Feaſt of Charity;</hi> and purſuant to this in the beginning of this Chriſtian Service, the Deacon was anciently wont to cry, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Let no man have ought againſt his Brother;</hi> and then followed the <hi>Oſcu<g ref="char:EOLhyphen"/>lum ſanctum,</hi> the Kiſs of Reconciliation. And thus the Fathers of the firſt Council of <hi>Nice</hi> took <hi>Sacrificium purum,</hi> as appears <hi>Canon</hi> 5. where they expound <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be that which is of<g ref="char:EOLhyphen"/>ferred, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all Malice and Hy<g ref="char:EOLhyphen"/>pocriſie
+<pb n="17" facs="tcp:49907:11"/>being laid aſide; agreeable to that of our bleſſed Saviour, <hi>Matth.</hi> 5.23. <hi>When thou bringeſt thy gift to the Altar,</hi> &amp;c. <hi>go firſt and be reconciled to thy Brother,</hi> &amp;c. And indeed, how it can be otherwiſe, I do not well ſee; for we have there the Emblem of a <hi>pardoning God,</hi> and a <hi>loving Saviour;</hi> we there ſee Mercy triumphing over Juſtice, and a compaſſionate Jeſus advancing our Felicity beyond our Hopes. And can we then inſiſt upon the ſlender nicety of an offence, rigorouſly exacting Satisfaction from our fellow-Servant, when we hear our <hi>great Lord</hi> ſay, <hi>I forgave thee all thou oweſt?</hi> Matth. 18.28. Can we do leſs than pardon thoſe little Reproaches and Indignities from our Brother, when we know<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epict. Enchir. c. 48.</note> 
+               <hi>we deſerve far worſe,</hi> and yet ſee that our <hi>innocent Redeemer when he was reviled, reviled not again?</hi> 1 Pet. 2.23. How can we do leſs than <hi>love him for whom Chriſt died?</hi> Rom. 14.15. And ſince we ſee that <hi>God ſo loved us, as to lay down his life for us, ſurely</hi> we muſt needs conclude with the Apoſtle, 1 <hi>John</hi> 4.11. <hi>That we ought alſo to love one another.</hi> But above all, how can we who are by the natural frame of our Conſtitu<g ref="char:EOLhyphen"/>tions,<note n="*" place="margin">Hiero. in carm. Pythag.</note> ſubject to the ſame Paſſions, do other<g ref="char:EOLhyphen"/>wiſe than <hi>forgive</hi> our <hi>Brother,</hi> when 'tis upon
+<pb n="18" facs="tcp:49907:12"/>that very condition that we are in <hi>this Sacrament</hi> to receive our own Remiſſion, <hi>Matth.</hi> 18.33, 35.</p>
+            <p n="2">
+               <hi>2ly.</hi> Our Beneficence is hereby likewiſe enlarg'd.</p>
+            <p>For what can more create a Reſpect and E<g ref="char:EOLhyphen"/>ſteem in me for my indigent Brother, than to ſee in the Sacrament Omnipotence it ſelf veil'd with Miſery, and clad with ſcanty Poverty? to ſee my Redeemer diſrob'd of his Glory, and (as it were) ſanctifying a poor diſgraceful Condi<g ref="char:EOLhyphen"/>tion by his own<note n="*" place="margin">Longum iter per praecepta, breve &amp; effi<g ref="char:EOLhyphen"/>cax per ex<g ref="char:EOLhyphen"/>empla. Sen. Ep. 6.</note> Example? How can I con<g ref="char:EOLhyphen"/>temn my poor Neighbour, when I ſee <hi>my Redee<g ref="char:EOLhyphen"/>mer</hi> and <hi>my God</hi> willingly for my ſake embrace the ſame ſtate? In a word, How can it but open the Bowels of my Commiſeration, when I con<g ref="char:EOLhyphen"/>ſider, that had it not been for one<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 Cor. 8.9.</note> poor Beg<g ref="char:EOLhyphen"/>gar, I my ſelf had been eternally miſerable?</p>
+            <p>Such Conſiderations as theſe, no doubt, the Apoſtles and Primitive Chriſtians had, when they were ſo<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juſt. Mart. Apol. 2. p. 98.</note> 
+               <hi>univerſally charitable as</hi> to <hi>ſeek</hi> out, and <hi>ſend Relief to every indigent Member.</hi> Agree<g ref="char:EOLhyphen"/>able to which, we retain an<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juſt. Apol. 2.99.</note> 
+               <hi>ancient</hi> laudable Conſtitution of contributing at the Lords Ta<g ref="char:EOLhyphen"/>ble to the neceſſities of our Brethren; plainly in<g ref="char:EOLhyphen"/>timating, that we think that a mighty proper ſeaſon, and a moſt convenient place for ſuch
+<pb n="19" facs="tcp:49907:12"/>acts of Piety, as if we there ſee our Redeemer's low Condition, and were ſenſibly affected with his Indigency; and therefore ſince it was too late to do it to himſelf, yet we were reſolv'd by way of Gratitude and Obedience to relieve him in his poor Members, which he takes as <hi>done to him<g ref="char:EOLhyphen"/>ſelf;</hi> for<note n="*" place="margin">Matth. 25.35.</note> 
+               <hi>I was an hungry, and ye fed me,</hi> &amp;c. <hi>inaſmuch as ye did it unto one of theſe my poor Mem<g ref="char:EOLhyphen"/>bers, ye did it unto me.</hi>
+            </p>
+            <p>And indeed, were there nothing in it at firſt farther than the <hi>bare Offering,</hi> yet I dare be bold to ſay, That the frequent Practice of it would beget ſo great an Eſteem and Value for the action, that it would upon all occaſions exert it ſelf. For Humanity and Beneficence are ſo ſuitable to our Nature, that they win upon the Soul by every repeated Act, and do inſenſibly ingratiate them<g ref="char:EOLhyphen"/>ſelves in our Affections by an habitual Practice. But then they muſt do much more ſo, if that be true, which an ingenious<note n="*" place="margin">Ladies Cal<g ref="char:EOLhyphen"/>ling, <hi>139.</hi>
+               </note> modern Writer of our own aſſerts, That <hi>there is not in all the My<g ref="char:EOLhyphen"/>ſtery of Godlineſs, in all the Oeconomy of the Goſpel, ſo expedite, ſo infallible a means of the growth in any Grace, as a frequent Participation of this bleſſed Sa<g ref="char:EOLhyphen"/>crament.</hi>
+            </p>
+            <p>For, Fourthly, Our Thankfulneſs to God is by this enflam'd.</p>
+            <pb n="20" facs="tcp:49907:13"/>
+            <p>And for evidence of this, we need go no farther than to look into the deſign of its Inſtitu<g ref="char:EOLhyphen"/>tion,<note place="margin">Eccleſia im<g ref="char:EOLhyphen"/>molat in cor<g ref="char:EOLhyphen"/>pore Chriſti ſacrificium laudis. Aug. lib. 1. in adv. leg. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> p. 20.</note> which our Church-Catechiſm tells us, was <hi>for a thankful Remembrance of the Death of Chriſt, and of the Benefits which we receive thereby.</hi> And accordingly St. <hi>Cyril</hi> tells us, That when the People began to bring their Offering to the Al<g ref="char:EOLhyphen"/>tar, the Prieſt was to ſay,<note n="*" place="margin">Cyril. Ca<g ref="char:EOLhyphen"/>tech. Myſtag. 5. Chryſ. in Hom. 18. in 2 Cor. &amp; Li<g ref="char:EOLhyphen"/>turg. Baſil.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lift up your Hearts:</hi> To which they anſwered, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We lift them up unto the Lord.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Let us give thanks unto the Lord.</hi> The People anſwered, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>It is meet and juſt we ſhould do ſo.</hi> Which Verſicles our <hi>Engliſh</hi> Liturgy in her Communion Service doth (you know) without any alteration retain to this day, to de<g ref="char:EOLhyphen"/>note to us how proper a ſeaſon that has been thought in all Ages of Chriſtianity, to offer up a Sacrifice of <hi>Praiſe</hi> and <hi>Thankſgiving.</hi> And for this reaſon, no doubt, it is frequently call'd by the Fathers, <hi>the Euchariſt,</hi> to intimate, that as it is a Sign of that ſecond Covenant which God made with man, ſo it ought to be received with<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juſtin. Apoſt. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Liturg. S. Marc. in Eccl. Alexandr.</note> 
+               <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> and <hi>Thanksgiving.</hi> But beſides, methinks it is prepoſterous to imagine, that this action which aſſaults our very Senſes, and ſtrikes our Heart
+<pb n="21" facs="tcp:49907:13"/>by the moſt lively repreſentation of God's great<g ref="char:EOLhyphen"/>eſt Mercy, ſhould not (if we have any Grati<g ref="char:EOLhyphen"/>tude) move us to a chearful acknowledgment.</p>
+            <p>
+               <q>To ſee God (as one expreſſes it) ſend down his very Bowels amongſt us to witneſs his Com<g ref="char:EOLhyphen"/>paſſion, to ſatisfie for us by his own Death, and attach himſelf for our liberty, to ſee our Redeemer and our Friend clad with Beggary and Diſgrace, that we may thereby abound in Wealth and Honour;</q> To ſee him executed on a Croſs as a Malefactor and a Slave, that we may there<g ref="char:EOLhyphen"/>by be freed from the dominion of Satan; to ſee him humbly ſtoop from the Joys of Heaven, that we may be nobly advanced thither; to ſee him who knew no Sin, to be <hi>made Sin, and a Curſe for us,</hi> and that not whilſt we were his Friends, but when we were in open hoſtility with him:<note place="margin">Vid. Dr. <hi>Bar<g ref="char:EOLhyphen"/>row</hi>'s Paſſion Serm.</note> Theſe are ſuch Acts of kindneſs, as none could, none would perform, but he whoſe Goodneſs is as extenſive as is his Greatneſs; and therefore if we have any ſpark of <hi>Thankfulneſs</hi> in us, the <hi>viſible</hi> Proof of theſe things muſt needs blow it up into the Ardours of Affection, and make us more and more mindful of, and thankful to that God that ſav'd us.</p>
+            <p>But then when we farther conſider our own
+<pb n="22" facs="tcp:49907:14"/>Demerits, and the miſerableneſs of our former Condition, being<note n="*" place="margin">Rom. 3.9.</note> 
+               <hi>under Sin,</hi>
+               <note n="†" place="margin">Rom. 5.16, 18.</note> 
+               <hi>under Condemna<g ref="char:EOLhyphen"/>tion,</hi>
+               <note n="‖" place="margin">Gal. 3.10.</note> 
+               <hi>under the Curſe:</hi> When we are reminded of the conſequent of theſe things, and conſider that nothing but that blood which we ſee now ſhed, could expiate for us; and when we withal conſider that there are ſtill many thouſands, who, whilſt we are ſurrounded with the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, are wrapp'd up in Darkneſs and Idolatry; that they ſtarve with Hunger, or ſurfeit with Profaneneſs, whilſt we are partaking of that <hi>Bread that came from Heaven.</hi> Certainly ſuch Thoughts as theſe will nobly advance our Thank<g ref="char:EOLhyphen"/>fulneſs, and make us daily more and more to thirſt after thoſe <hi>Euchariſtick Bowls,</hi> and fill our Hearts with <hi>paſſionate Eulogies</hi> to the Author of our Redemption.</p>
+            <p>Fifthly, Our Repentance is hereby promoted.</p>
+            <p>We uſually hate and deteſt the fawning Trea<g ref="char:EOLhyphen"/>chery of <hi>Judas</hi> that betray'd our Saviour, the black Suggeſtions of the <hi>Jewiſh</hi> Prieſts that did impeach him, the rude Carriage of the Popu<g ref="char:EOLhyphen"/>lacy that did abuſively inſult over him; we abhor thoſe poiſonous Tongues that revil'd him, and thoſe bloody Hands that ſmote him. How can we then reflect on thoſe Sufferings which are there repreſented to us, without extream Diſ<g ref="char:EOLhyphen"/>pleaſure
+<pb n="23" facs="tcp:49907:14"/>againſt thoſe Sins of ours which were the occaſion of them? For, alas! the <hi>Jews</hi> were but the <hi>Inſtruments</hi> of his <hi>Paſſion;</hi> the long train of our Iniquities were the chief, the real Actors of that direful Tragedy.<note n="*" place="margin">Iſa. 53.5.</note> 
+               <hi>He was wounded for our Tranſgreſſions, and bruiſed for our Iniquities.</hi>
+               <note n="†" place="margin">Rom. 4.25.</note> 
+               <hi>He was delivered for our Offences, and became a</hi>
+               <note n="‖" place="margin">Gal. 3.13.</note> 
+               <hi>Curſe for us;</hi> that is, It was we, who by our Sins did impeach, did adjudge, did ſentence him to death. 'Twas our Obſcenity which be<g ref="char:EOLhyphen"/>ſmear'd his glorious Face with Spittle, and our profane Oaths, Curſing and Blaſphemy were the falſe Witneſſes that forg'd the black Indict<g ref="char:EOLhyphen"/>ment againſt his ſacred Perſon. 'Twas our Wantonneſs that expos'd him naked; and our Surfeiting and Drunkenneſs that <hi>gave him Vine<g ref="char:EOLhyphen"/>gar and Gall to drink.</hi> 'Twas the Virulency of our<note n="*" place="margin">Pſal. 57.4.</note> 
+               <hi>Tongues</hi> which was the <hi>Spear</hi> that gor'd his precious Side, and our deep Sleep of Sin made him <hi>give</hi> up the <hi>Ghoſt.</hi> And can we then chuſe but hate thoſe Sins which were the perfidious Be<g ref="char:EOLhyphen"/>trayers of our deareſt Friend? Shall we not utterly deteſt thoſe unjuſt Slanderers, who have abus'd the Lord of Righteouſneſs? Shall we not for ever abhor thoſe barbarous Murderers that have ſlain our own Brother?</p>
+            <pb n="24" facs="tcp:49907:15"/>
+            <p>I remember 'tis recorded in<note n="*" place="margin">Hiſt. Imper. Rom. a Pedro Mexia. Vit. Jul. Caeſ.</note> ancient Story, that when <hi>Antony</hi> was in a Funeral Oration rheto<g ref="char:EOLhyphen"/>rically copious in perſwading the <hi>Romans</hi> to re<g ref="char:EOLhyphen"/>venge the Death of <hi>Caeſar,</hi> he expatiates of the great excellency of the Perſon, ſhews that he was crown'd with Valour, Wiſdom, and Induſtry; recounts his many Victories, ſhews his Conduct, and the ſeveral Stratagems he made uſe of, aecy<g ref="char:EOLhyphen"/>phers the vaſt kindneſs he had for that flouriſhing City, and how he had atteſted it by<note n="*" place="margin">Vid. Teſta<g ref="char:EOLhyphen"/>mentum Cae<g ref="char:EOLhyphen"/>ſaris in Pedro Mexia.</note> 
+               <hi>ample Le<g ref="char:EOLhyphen"/>gacies</hi> at his Death, as well as by his <hi>Courage</hi> and <hi>Reſolution</hi> whilſt he liv'd; and that after all this, he ſhould be barbarouſly murder'd by his own Senators, was a Crime ſo heinous, that the Gods themſelves ſtood amaz'd at the horribleneſs of the Fact. All this they hear, tho' with a mixture of Wrath and Pity, yet with ſomewhat of Pa<g ref="char:EOLhyphen"/>tience. But when he ſhews them the <hi>Princely Veſt<g ref="char:EOLhyphen"/>ment,</hi> and in it the Holes and the Blood which were occaſioned by thoſe murdering Inſtruments; When they ſee the <hi>Purple</hi> chang'd into <hi>Scarlet,</hi> and read the violence of his Enemies by the num<g ref="char:EOLhyphen"/>ber of his Wounds which they ſee in his Gar<g ref="char:EOLhyphen"/>ment; This adds Wings to their paſſionate Re<g ref="char:EOLhyphen"/>ſentment, and ſpurs forward their enflam'd In<g ref="char:EOLhyphen"/>dignation, they preſently ſnatch Inſtruments of
+<pb n="25" facs="tcp:49907:15"/>Revenge out of his own Funeral Pile, and deſtroy, if not the Perſons, the Habitations of the Mur<g ref="char:EOLhyphen"/>derers. Now to being this to our ſelves: We may perhaps hear or read the <hi>Paſſion</hi> of <hi>our Savi<g ref="char:EOLhyphen"/>our</hi> elegantly decypher'd, and have the greatneſs of his Sufferings, and the vaſtneſs of his Love de<g ref="char:EOLhyphen"/>ſcribed to us with all the Flouriſhes of Rhetorick, and not be much tranſported at the Diſcourſe: But can we in the <hi>Bleſſed Sacrament ſee</hi> his Wounds gaping, his Blood pouring forth, and his Fleſh bro<g ref="char:EOLhyphen"/>ken in pieces, without Indignation againſt our ſelves, who were the direful Actors of this Scene? No ſure, if we have any love for our dying Lord, or any reſpect for a crucify'd Redeemer; if we have any regard to the Sufferings of a beloved Friend, or any kindneſs for our greateſt Benefa<g ref="char:EOLhyphen"/>ctour, unleſs we deſign to re-act <hi>Judas</hi> his part, and to <hi>crucifie afreſh the Lord of Life,</hi> Heb. 6.6.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. O<g ref="char:EOLhyphen"/>rig. con. Celſ. lib. 5.272.</note> Unleſs, whilſt we boaſt our ſelves Chriſtians, we deſign to practiſe and eſpouſe the manner of the <hi>Jews;</hi> Briefly; unleſs all our Pretences to Re<g ref="char:EOLhyphen"/>ligion and Chriſtianity be but Ceremony and Complement, we ſhall at ſuch a ſpectacle as this, be ſtricken with hatred of our Sins, and a full purpoſe to decline them for the time to come.</p>
+            <p>But if we do not proceed thus far, there will
+<pb n="26" facs="tcp:49907:16"/>however by our receiving be one ſtep made to<g ref="char:EOLhyphen"/>wards a new Life: For let the <hi>Debauchees</hi> of the Age diſregard the Methods of Salvation, and put the evil day never ſo far from them, yet if upon any account (be it Political or other) they appear at the <hi>Wedding of the Lamb,</hi> they dare not approach without ſomething of a Wedding Gar<g ref="char:EOLhyphen"/>ment, ſome more than ordinary Preparation for this great Interview; there will be at leaſt ſome few Prayers, and faint Reſolutions, ſome <hi>ſuperfi<g ref="char:EOLhyphen"/>cial Repentance,</hi> or <hi>Ahab-like Humiliation;</hi> and who knows but theſe ſmall beginnings, may, like the <hi>Cloud</hi> of <hi>Elijah, overſpread</hi> the whole man? Who knows but this almoſt-Convert may find ſo much Pleaſure and inward Comfort from this interval of Impiety, as may occaſion a Perſeverance? For indeed theſe weak Intentions do uſually continue for ſome few days after they have received; for the moſt ſtout-hearted Sinner cannot ſo far con<g ref="char:EOLhyphen"/>quer his Fears, as to ruſh from the <hi>Lord's Table</hi> in<g ref="char:EOLhyphen"/>to a <hi>Brothel-houſe,</hi> or to remove from the <hi>Cup</hi> of <hi>Bleſſing</hi> to the <hi>Cup</hi> of <hi>Devils.</hi> No man, I dare ſay, is ſuch an accompliſh'd Sinner, as to reſolve, when he hath a view of his crucify'd Saviour, that he will by his Sins and Impieties, <hi>recrucifie that Lord of Life.</hi> No; Men have however, good Reſo<g ref="char:EOLhyphen"/>lutions
+<pb n="27" facs="tcp:49907:16"/>at ſuch a time as this: 'Tis at leaſt <hi>like Seed ſown upon a Rock, where it hath ſome Earth;</hi> and who knows but a peculiar influence of Hea<g ref="char:EOLhyphen"/>ven may enable it to bring forth Fruit? How<g ref="char:EOLhyphen"/>ever there will accrew from this piece-meal Pre<g ref="char:EOLhyphen"/>paration this advantage, that it will in ſome meaſure bring us to a recollection of our ſelves, and for ſome little time ſtop the career of our Sin, which is always the firſt Fruits of Repentance.</p>
+            <p>Thus having, I hope, plainly convinc'd you of the great reaſonableneſs of this our Bleſſed Saviour's Inſtitution, and ſhewn you the great in<g ref="char:EOLhyphen"/>ducements which we have of <hi>doing this in remem<g ref="char:EOLhyphen"/>brance of him;</hi> and that, if not as we are oblig'd by <hi>Duty,</hi> yet as it tends ſo vaſtly for our <hi>Intereſt,</hi> and the improvement of thoſe Graces, without a large ſhare of which, it is impoſſible for us ever to ſee God; I ſhould now proceed to draw ſome few Inferences by way of Application; but before I do that, give me leave to declare, that I deſire not to be miſtaken in what I have already deliver'd, as if I went about to encourage men to <hi>receive the Holy Sacrament</hi> remiſsly, or without prepara<g ref="char:EOLhyphen"/>tion. No, the ſumm of what I have ſaid is only this; That if my great Lord and Maſter abſo<g ref="char:EOLhyphen"/>lutely command me without reſtriction, to do ſuch or ſuch a piece of Service for him, I think I
+<pb n="28" facs="tcp:49907:17"/>more highly affront him in the careleſs neglect and never attempting of it, than I can do in the per<g ref="char:EOLhyphen"/>forming of it, tho' there be ſome Defects, ſome <hi>Sphalmata</hi> and <hi>Errata</hi> in the doing of it; I had bet<g ref="char:EOLhyphen"/>ter ſhew my good Will and Obedience to a known Command, tho' I am <hi>not thoroughly cleans'd accord<g ref="char:EOLhyphen"/>ing to the Purification of the Sanctuary,</hi> than diſavow my bleſſed Redeemer by a thorough neglect of ſo <hi>poſitive</hi> a <hi>Command.</hi> And now what I have to ſay by way of Application, ſhall (leſt I ſhould abuſe your time) be ſumm'd up briefly in theſe two Inferences.</p>
+            <p>Firſt, That the dark Heathen World may more reaſonably expect Salvation, than thoſe Chriſtians who wilfully neglect the holy Sacrament.</p>
+            <p>'Tis St. <hi>Paul</hi>'s Rule not to <hi>judge thoſe that are without the Churches:</hi> But yet if we adhere to the common ſquare of human Opinion, we may juſt<g ref="char:EOLhyphen"/>ly conclude him to be in a better Condition as to his future ſtate, who hath liv'd up to that ſhadow of Reaſon and Conſcience, which was the bare dictate of Nature, than he who has known the way of Truth, and yet has departed from it. Sins of Ignorance are not clad in ſo black a dye, as thoſe which are accompanied with a ſtiff preme<g ref="char:EOLhyphen"/>ditated Knowledge: Nor are we ſo angry at the impertinent peeviſh actions of little Children, as
+<pb n="29" facs="tcp:49907:17"/>at the reſolute Affronts of him who falls not un<g ref="char:EOLhyphen"/>der the denomination of a <hi>Minor.</hi> And can we then judge leſs, but that God will more unkindly reſent the wilful Abuſes and Neglects of Mankind, than the frailties of human Infirmity, or the mi<g ref="char:EOLhyphen"/>ſtakes of blind <hi>Ignorance,</hi> or a miſguided Zeal? He does not <hi>deſire to reap where he has not ſown,</hi> but where his hand has been plentiful in diſperſing the Seeds of a pure Knowledge and inlightned Re<g ref="char:EOLhyphen"/>ligion, there he expects a large increaſe of his Glo<g ref="char:EOLhyphen"/>ry, or elſe the end of that People ſhall be <hi>Fire and a Curſe.</hi> Now have we not read and heard of the ſuperſtitious bravery of the Pagan World, in the Adoration they pay to their Gods and Pagods? And can we then refrain bluſhing at the lazy tem<g ref="char:EOLhyphen"/>per of a profane Chriſtian, who will do nothing for the ſake of his Redeemer? Can we without diſ<g ref="char:EOLhyphen"/>dain againſt our ſelves ſee them rigorouſly oppoſe Nature it ſelf in offering their own Bodies in Sa<g ref="char:EOLhyphen"/>crifice to appeaſe their ſuppoſed angry Deities? And can we at the ſame time ſo highly abuſe our Maker, as to deny a performance to thoſe Injun<g ref="char:EOLhyphen"/>ctions which he has laid upon us? Could the Pa<g ref="char:EOLhyphen"/>gan World be ſatisfied, that their falſe Gods re<g ref="char:EOLhyphen"/>quir'd nothing of them but what was mighty fa<g ref="char:EOLhyphen"/>cile in its obſervance, with what <hi>Io's</hi> of Joy would they receive ſuch glad tidings, and readily endea<g ref="char:EOLhyphen"/>vour
+<pb n="30" facs="tcp:49907:18"/>a performance? And then may we not high<g ref="char:EOLhyphen"/>ly preſume that they will riſe up in Judgment a<g ref="char:EOLhyphen"/>gainſt, and condemn that People (be they who they will) that will not do as much in the Worſhip of the God of <hi>Iſrael?</hi> who will not approach his Temple, tho' at hand, and <hi>in the corners of the Streets,</hi> whilſt the dark Pagan chearfully undertakes the ſeverity of a long and tedious Pilgrimage, who will not fall down in<note n="*" place="margin">'H <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. A<g ref="char:EOLhyphen"/>lexand. lib. 7. Stromat. <hi>And</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> a <hi>commemorative Sacrifice</hi> to the <hi>Holy Jeſus,</hi> whilſt, the other offers not only whole <hi>Hecatombs</hi> of Bulls and Goats, but even ſa<g ref="char:EOLhyphen"/>crifice their own Infant-offspring, <hi>the Fruit of their Body, for the Sin of their Soul?</hi>
+            </p>
+            <p>And this is the firſt Inference I make, That the dark Heathen may more reaſonably expect Salva<g ref="char:EOLhyphen"/>tion, than thoſe Chriſtians who wilfully neglect the Holy Sacrament.</p>
+            <p>Secondly, We may, from what has been ſaid, infer, That if we neglect this eaſie Injunction, we do thereby ſufficiently denote to the World, that we value our worldly Intereſts, our Pleaſures, or our Profits beyond <hi>the means of Grace, and the hopes of Glory.</hi>
+            </p>
+            <p>For let our Employment be what it will, do we not upon all occaſions fit and prepare our Affairs by a previous conſideration, and put them into ſuch a poſture as ſhall tend the moſt to our Ad<g ref="char:EOLhyphen"/>vantage?
+<pb n="31" facs="tcp:49907:18"/>Do we ſuffer every little diverſion to cut off the entail of our Profit? Will the <hi>Northern Blaſts</hi> of a ſevere <hi>Winter,</hi> or the <hi>ſcorching Sun<g ref="char:EOLhyphen"/>beams</hi> of the <hi>Dog-days,</hi> detain the Merchant from his Voyage and the Exchange, or the Tradeſman from his Market? Will a few drops of Rain, or a viſit from a Friend, divert any of us from the pro<g ref="char:EOLhyphen"/>ſecution of a good Bargain? And yet all and any of theſe are, we think, excuſe enough for our not com<g ref="char:EOLhyphen"/>ing to the Sacrament. <hi>I am not worthy,</hi> ſaith one, and <hi>therefore I cannot come.</hi> What man, I pray you, ever us'd the like expreſſion, when he had the ten<g ref="char:EOLhyphen"/>der of a fair Eſtate, or ſome worldly Emolument? <hi>I have not time,</hi> ſays a ſecond, <hi>to prepare my ſelf, and may not come without my Wedding-Garment.</hi> But haſt thou not at the ſame time extravagantly waſted as many opportunities <hi>inter vinum &amp; oleum,</hi> or be<g ref="char:EOLhyphen"/>twixt the Comb and the Glaſs, the dreſſing thy de<g ref="char:EOLhyphen"/>caying Body, as would, had they been well em<g ref="char:EOLhyphen"/>ploy'd, have fitted and prepar'd thy Soul? <hi>My Wife, my Husband,</hi> or <hi>my Child is ſick and indiſpos'd, and therefore,</hi> ſays a third, <hi>I cannot leave them.</hi> Would this really keep thee from the Proſecution of thy worldly affairs? Wouldſt thou not beg thy Friends pardon for ſome few hours abſence, being to make a very advantageous purchaſe, or to take poſſeſ<g ref="char:EOLhyphen"/>ſion of ſome large Eſtate? Wouldſt thou quit
+<pb n="32" facs="tcp:49907:19" rendition="simple:additions"/>thine Intereſt rather than thy Compl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſance, and die poor and a Beggar, rather than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thought un<g ref="char:EOLhyphen"/>civil or ungenteel? In a word, let us put ſuch In<g ref="char:EOLhyphen"/>terrogatories as theſe to our ſelves, and if our Con<g ref="char:EOLhyphen"/>ſciences anſwer them in the negative, we muſt needs confeſs our ſelves inexcuſable, whilſt that which will not palliate our neglect of any worldly Entertainment, ſhall yet be thought excuſe enough for our rude and negligent behaviour towards <hi>the Son of God.</hi> To conclude; we had much better be plain and ingenuous in the matter, and declare once for all, That <hi>we will not obey</hi> the Commands of our dying Saviour, than thus to ſhuffle, and make pitiful Evaſions in a matter ſo momentous. Our Damnation would be much eaſier, would we ſo far deveſt the Hypocrite, as to declare, that <hi>we would not ſerve the Lord;</hi> rather than to demean our ſelves under the pretext of Chriſt's Diſciples; and yet to tax him of ſuch ſeverity, as to declare by our continual neglect, that we cannot <hi>do this in remembrance of him.</hi> To whom with the Father and Holy Spirit, three Perſons and one God, be aſcrib'd, as is moſt due, all Honour, Praiſe, Might, Majeſty and Dominion henceforth, and for ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
